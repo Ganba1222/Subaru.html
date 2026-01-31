@@ -32,7 +32,7 @@ h1 {
 .buttons {
     display: flex;
     justify-content: center;
-    gap: 150px;
+    gap: 100px;
 }
 
 button {
