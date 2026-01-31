@@ -25,7 +25,7 @@ img {
 }
 
 h1 {
-    margin-bottom: 100px;
+    margin-bottom: 300px;
 }
 
 /* Buttons */
